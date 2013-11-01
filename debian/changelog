@@ -1,3 +1,11 @@
+philsf-likes-desktop (0.1.1) UNRELEASED; urgency=low
+
+  * Added nautilus-dropbox.
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Thu, 31 Oct 2013 22:47:19 -0200
+
+
+
 philsf-likes-desktop (0.1.0) UNRELEASED; urgency=low
 
   * Initial release.
