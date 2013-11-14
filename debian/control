@@ -11,7 +11,7 @@ Version: 0.1.1
 Maintainer: Felipe Figueiredo <philsf79@gmail.com>
 # Pre-Depends: <comma-separated list of packages>
 # Depends: <comma-separated list of packages>
-Recommends: ubuntu-restricted-addons, ubuntu-restricted-extras, sun-java6-plugin, skype, acroread| adobereader-enu, calibre, sux, everpad, dropbox | nautilus-dropbox, nautilus-image-converter, nautilus-open-terminal, easytag, tomboy, elinks, lynx, curl, ssh, rsync, dar, htop, colordiff, pmount, xchat-indicator, byobu, lsb, linux-generic, mplayer, imagemagick, apt-file, apt-zip, alien, harden-clients, harden-environment,
+Recommends: ubuntu-restricted-addons, ubuntu-restricted-extras, sun-java6-plugin, skype, acroread| adobereader-enu, calibre, sux, everpad, dropbox | nautilus-dropbox | spideroak | wuala, nautilus-image-converter, nautilus-open-terminal, easytag, tomboy, elinks, lynx, curl, ssh, rsync, dar, htop, colordiff, pmount, xchat-indicator, byobu, lsb, linux-generic, mplayer, imagemagick, apt-file, apt-zip, alien, harden-clients, harden-environment,
 Suggests: gimp, 
 # Provides: <comma-separated list of packages>
 # Replaces: <comma-separated list of packages>
