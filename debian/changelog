@@ -1,3 +1,11 @@
+philsf-likes-desktop (0.1.2) UNRELEASED; urgency=low
+
+  * Added (Recommends): adobereader-enu, spideroak, wuala, ubuntu-desktop,
+	ubuntu-minimal, ubuntu-standard.
+  * Added (Suggests): gimp, synapse.
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Fri, 22 Nov 2013 14:25:00 -0200
+
 philsf-likes-desktop (0.1.1) UNRELEASED; urgency=low
 
   * Added nautilus-dropbox.
