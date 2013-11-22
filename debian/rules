@@ -1,0 +1,17 @@
+#! /usr/bin/make -f
+#%:
+#	dh --with germinate $@
+
+clean:
+
+build:
+
+binary:
+binary-indep:
+
+build-arch:
+
+build-indep:
+
+binary-arch:
+
