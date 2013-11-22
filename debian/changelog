@@ -1,10 +1,10 @@
-philsf-likes-desktop (0.1.3) saucy; urgency=low
+philsf-likes-desktop (0.1.3) unstable; urgency=low
 
   * Fixed packaging. No more equivs, no builds with debuild.
 
  -- Felipe Figueiredo <philsf79@gmail.com>  Fri, 22 Nov 2013 15:36:54 -0200
 
-philsf-likes-desktop (0.1.2) saucy; urgency=low
+philsf-likes-desktop (0.1.2) unstable; urgency=low
 
   * Added (Recommends): adobereader-enu, spideroak, wuala, ubuntu-desktop,
     ubuntu-minimal, ubuntu-standard.
@@ -12,15 +12,13 @@ philsf-likes-desktop (0.1.2) saucy; urgency=low
 
  -- Felipe Figueiredo <philsf79@gmail.com>  Fri, 22 Nov 2013 14:25:00 -0200
 
-philsf-likes-desktop (0.1.1) precise; urgency=low
+philsf-likes-desktop (0.1.1) unstable; urgency=low
 
   * Added nautilus-dropbox.
 
  -- Felipe Figueiredo <philsf79@gmail.com>  Thu, 31 Oct 2013 22:47:19 -0200
 
-
-
-philsf-likes-desktop (0.1.0) precise; urgency=low
+philsf-likes-desktop (0.1.0) unstable; urgency=low
 
   * Initial release.
 
