@@ -5,13 +5,14 @@ Section: metapackages
 Priority: optional
 Maintainer: Felipe Figueiredo <philsf79@gmail.com>
 # Homepage: <enter URL here; no default>
+Build-Depends: debhelper (>= 7)
 Standards-Version: 3.9.4
 
 Package: philsf-likes-desktop
 # Version: 0.1.2
 # Maintainer: Felipe Figueiredo <philsf79@gmail.com>
 Pre-Depends: germinate
-# Depends: <comma-separated list of packages>
+Depends: ${misc:Depends}
 Recommends: ubuntu-restricted-addons, ubuntu-restricted-extras, sun-java6-plugin, skype, acroread| adobereader-enu, calibre, sux, everpad, dropbox | nautilus-dropbox | spideroak | wuala, nautilus-image-converter, nautilus-open-terminal, easytag, tomboy, elinks, lynx, curl, ssh, rsync, dar, htop, colordiff, pmount, xchat-indicator, byobu, lsb, linux-generic, mplayer, imagemagick, apt-file, apt-zip, alien, harden-clients, harden-environment, ubuntu-desktop, ubuntu-minimal, ubuntu-standard,
 Suggests: gimp, synapse,
 # Provides: <comma-separated list of packages>
