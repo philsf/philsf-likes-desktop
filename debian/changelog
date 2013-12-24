@@ -1,3 +1,10 @@
+philsf-likes-desktop (0.1.4) saucy; urgency=low
+
+  * Added (Recommends): gdebi-core.
+  * Sorted Recommends alphabetically.
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Tue, 24 Dec 2013 00:44:52 -0200
+
 philsf-likes-desktop (0.1.3) saucy; urgency=low
 
   * Fixed packaging. No more equivs-build, now builds with debuild.
