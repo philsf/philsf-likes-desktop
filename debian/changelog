@@ -1,3 +1,9 @@
+philsf-likes-desktop (0.1.5) trusty; urgency=low
+
+  * Added (Recommends): oracle-java7-installer, oracle-java6-installer.
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Tue, 10 Mar 2015 17:49:03 -0300
+
 philsf-likes-desktop (0.1.4) saucy; urgency=low
 
   * Added (Recommends): gdebi-core.
