@@ -1,3 +1,9 @@
+philsf-likes-desktop (0.2.0) artful; urgency=medium
+
+  * Packages updated to 2018 versions and names
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Fri, 18 May 2018 14:34:27 -0300
+
 philsf-likes-desktop (0.1.6) utopic; urgency=medium
 
   * Added (Recommends): mplayer2.
