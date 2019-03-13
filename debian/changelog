@@ -1,8 +1,8 @@
-philsf-likes-desktop (0.3.1) UNRELEASED; urgency=medium
+philsf-likes-desktop (0.3.1) cosmic; urgency=medium
 
   * Added (Recommends): en and pt language packs
 
- -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 13 Mar 2019 13:02:26 -0300
+ -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 13 Mar 2019 13:10:10 -0300
 
 philsf-likes-desktop (0.3.0) cosmic; urgency=medium
 
