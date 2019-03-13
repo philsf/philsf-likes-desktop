@@ -1,6 +1,7 @@
 philsf-likes-desktop (0.3.0) UNRELEASED; urgency=medium
 
   * Packages updated to 2019 versions and names
+  * Recommends: seahorse-nautilus
 
  -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 13 Mar 2019 12:14:00 -0300
 
