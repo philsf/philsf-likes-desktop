@@ -1,5 +1,6 @@
 philsf-likes-desktop (0.3.1) UNRELEASED; urgency=medium
 
+  * Added (Recommends): en and pt language packs
 
  -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 13 Mar 2019 13:02:26 -0300
 
