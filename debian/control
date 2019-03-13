@@ -15,6 +15,7 @@ Package: philsf-likes-desktop
 Depends: ${misc:Depends}
 Recommends: acroread| adobereader-enu,
 	    alien,
+	    aptitude,
 	    apt-file,
 	    apt-zip,
 	    byobu,
