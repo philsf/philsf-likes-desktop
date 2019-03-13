@@ -9,7 +9,7 @@ Build-Depends: debhelper (>= 7), germinate
 Standards-Version: 3.9.4
 
 Package: philsf-likes-desktop
-# Version: 0.3.0
+# Version: 0.3.1
 # Maintainer: Felipe Figueiredo <philsf79@gmail.com>
 # Pre-Depends: 
 Depends: ${misc:Depends}
