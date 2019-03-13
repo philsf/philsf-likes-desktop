@@ -9,7 +9,7 @@ Build-Depends: debhelper (>= 7), germinate
 Standards-Version: 3.9.4
 
 Package: philsf-likes-desktop
-# Version: 0.2.0
+# Version: 0.3.0
 # Maintainer: Felipe Figueiredo <philsf79@gmail.com>
 # Pre-Depends: 
 Depends: ${misc:Depends}
@@ -38,7 +38,7 @@ Recommends: acroread| adobereader-enu,
 	    skype | skypeforlinux,
 	    rsync,
 	    ssh,
-	    oracle-java8-installer | oracle-java9-installer | sun-java8-plugin | sun-java9-plugin,
+	    oracle-java11-installer | oracle-java9-installer | oracle-java8-installer,
 	    ubuntu-desktop,
 	    ubuntu-minimal,
 	    ubuntu-standard,
