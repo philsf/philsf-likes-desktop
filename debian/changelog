@@ -1,6 +1,6 @@
 philsf-likes-desktop (0.3.5) UNRELEASED; urgency=medium
 
-  * Added (Recommends): samba
+  * Added (Recommends): samba, gnome-tweak-tool
 
  -- Felipe Figueiredo <philsf79@gmail.com>  Thu, 14 May 2020 20:19:01 -0300
 
