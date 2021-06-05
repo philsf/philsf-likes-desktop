@@ -1,3 +1,9 @@
+philsf-likes-desktop (0.3.8) UNRELEASED; urgency=medium
+
+  * Added (Recommends): gir1.2-clutter-1.0, gir1.2-gtop-2.0
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Fri, 04 Jun 2021 23:09:46 -0300
+
 philsf-likes-desktop (0.3.7) hirsute; urgency=medium
 
   * Added (Recommends): smbclient
