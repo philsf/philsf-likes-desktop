@@ -1,10 +1,10 @@
-philsf-likes-desktop (0.3.7) UNRELEASED; urgency=medium
+philsf-likes-desktop (0.3.7) hirsute; urgency=medium
 
   * Added (Recommends): smbclient
   * Promoted (Recommends): discord
   * Demoted (Suggests): easytag, skype | skypeforlinux
 
- -- Felipe Figueiredo <philsf79@gmail.com>  Fri, 04 Jun 2021 22:53:27 -0300
+ -- Felipe Figueiredo <philsf79@gmail.com>  Fri, 04 Jun 2021 22:54:29 -0300
 
 philsf-likes-desktop (0.3.6) focal; urgency=medium
 
