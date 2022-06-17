@@ -1,3 +1,11 @@
+philsf-likes-desktop (0.3.9) UNRELEASED; urgency=medium
+
+  * Demoted (Suggests): dar
+  * Added (Recommends): gnome-tweaks
+  * Added (Suggests): gnome-weather
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Thu, 25 Nov 2021 22:18:32 -0300
+
 philsf-likes-desktop (0.3.8) hirsute; urgency=medium
 
   * Added (Recommends): gir1.2-clutter-1.0, gir1.2-gtop-2.0
