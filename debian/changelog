@@ -1,10 +1,10 @@
-philsf-likes-desktop (0.3.9) UNRELEASED; urgency=medium
+philsf-likes-desktop (0.3.9) jammy; urgency=medium
 
   * Demoted (Suggests): dar
   * Added (Recommends): gnome-tweaks
   * Added (Suggests): gnome-weather
 
- -- Felipe Figueiredo <philsf79@gmail.com>  Thu, 25 Nov 2021 22:18:32 -0300
+ -- Felipe Figueiredo <philsf79@gmail.com>  Fri, 17 Jun 2022 11:44:19 -0300
 
 philsf-likes-desktop (0.3.8) hirsute; urgency=medium
 
