@@ -1,6 +1,7 @@
 philsf-likes-desktop (0.3.9) UNRELEASED; urgency=medium
 
   * Demoted (Suggests): dar
+  * Added (Recommends): gnome-tweaks
 
  -- Felipe Figueiredo <philsf79@gmail.com>  Thu, 25 Nov 2021 22:18:32 -0300
 
