@@ -13,7 +13,7 @@ Package: philsf-likes-desktop
 # Maintainer: Felipe Figueiredo <philsf79@gmail.com>
 # Pre-Depends: 
 Depends: ${misc:Depends}
-Recommends: acroread| adobereader-enu,
+Recommends: acroread | adobereader-enu | adobereader-enu:i386,
 	    alien,
 	    aptitude,
 	    apt-file,
