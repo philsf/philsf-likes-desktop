@@ -13,8 +13,8 @@ Package: philsf-likes-desktop
 # Maintainer: Felipe Figueiredo <philsf79@gmail.com>
 # Pre-Depends: 
 Depends: ${misc:Depends}
-Recommends: acroread | adobereader-enu | adobereader-enu:i386,
-	    alien,
+Recommends:
+	    acroread | adobereader-enu | adobereader-enu:i386,
 	    aptitude,
 	    apt-file,
 	    apt-zip,
@@ -56,13 +56,15 @@ Recommends: acroread | adobereader-enu | adobereader-enu:i386,
 	    ubuntu-restricted-extras,
 	    warsaw,
 	    zoom,
-Suggests: gimp,
+Suggests:
+	  alien,
 	  dar,
 	  easytag,
 	  empathy,
 	  everpad,
 	  gdebi-core,
 	  gnome-shell-extension-manager,
+	  gimp,
 	  gnome-weather,
 	  python-nautilus,
           skype | skypeforlinux,
