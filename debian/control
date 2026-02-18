@@ -24,8 +24,6 @@ Recommends:
 	    discord,
 	    dropbox | nautilus-dropbox | spideroak | wuala,
 	    ecryptfs-utils,
-            gir1.2-clutter-1.0,
-            gir1.2-gtop-2.0,
 	    gnome-tweaks | gnome-tweak-tool,
 	    gnome-shell-extension-prefs,
 	    htop,
