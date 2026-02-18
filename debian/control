@@ -38,7 +38,6 @@ Recommends:
 	libreoffice-help-pt-br,
 	libreoffice-lightproof-pt-br,
 	lm-sensors,
-	lsb,
 	linux-generic,
 	mplayer2 | mplayer,
 	nautilus-image-converter,
