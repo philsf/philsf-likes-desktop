@@ -14,7 +14,6 @@ Package: philsf-likes-desktop
 # Pre-Depends: 
 Depends: ${misc:Depends}
 Recommends:
-	acroread | adobereader-enu | adobereader-enu:i386,
 	aptitude,
 	apt-file,
 	apt-zip,
@@ -60,6 +59,7 @@ Recommends:
 	warsaw,
 	zoom,
 Suggests:
+	acroread | adobereader-enu | adobereader-enu:i386,
 	alien,
 	dar,
 	easytag,
