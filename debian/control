@@ -23,7 +23,7 @@ Recommends:
 	    colordiff,
 	    discord,
 	    dropbox | nautilus-dropbox | spideroak | wuala,
-	    ecryptfs-utils,
+	    fscrypt | ecryptfs-utils,
 	    gnome-tweaks | gnome-tweak-tool,
 	    gnome-shell-extension-prefs,
 	    htop,
