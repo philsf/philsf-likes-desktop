@@ -46,6 +46,7 @@ Recommends:
 	mplayer2 | mplayer,
 	nautilus-image-converter,
 	nautilus-open-terminal,
+	pipewire-audio-client-libraries,
 	pmount,
 	rename,
 	seahorse-nautilus,
