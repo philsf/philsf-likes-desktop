@@ -96,6 +96,6 @@ Architecture: all
 # Files: <pair of space-separated paths; First is file to include, second is destination>
 #  <more pairs, if there's more than one file to include. Notice the starting space>
 Description: Essential Desktop Environment and Quality-of-Life Tools
-This metapackage streamlines the setup of a user-friendly Ubuntu desktop. It focuses on stability, multimedia support, and daily productivity.
-.
-Included are industry-standard tools for communication (Zoom, Discord), document management (Calibre, LibreOffice), and system essentials (fscrypt). Designed to be "production-ready" for non-technical users while maintaining the robustness required for a professional workstation.
+ This metapackage streamlines the setup of a user-friendly Ubuntu desktop. It focuses on stability, multimedia support, and daily productivity.
+ .
+ Included are industry-standard tools for communication (Zoom, Discord), document management (Calibre, LibreOffice), and system essentials (fscrypt). Designed to be "production-ready" for non-technical users while maintaining the robustness required for a professional workstation.

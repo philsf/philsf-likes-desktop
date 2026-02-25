@@ -1,3 +1,9 @@
+philsf-likes-desktop (0.3.12) noble; urgency=medium
+
+  * Retrofit: major update to fix various dependencies
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 25 Feb 2026 16:34:19 -0300
+
 philsf-likes-desktop (0.3.11) jammy; urgency=medium
 
   * Added (Recommends): adobereader-enu:i386
