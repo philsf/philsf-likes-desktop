@@ -1,3 +1,9 @@
+philsf-likes-desktop (0.3.12ubuntu1) UNRELEASED; urgency=medium
+
+  * Suggests: aptitude, apt-zip, imagemagick, lm-sensors, samba,
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 25 Feb 2026 18:28:48 -0300
+
 philsf-likes-desktop (0.3.12) noble; urgency=medium
 
   * Retrofit: major update to fix various dependencies
