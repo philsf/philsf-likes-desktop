@@ -1,6 +1,6 @@
 philsf-likes-desktop (0.3.12ubuntu1) UNRELEASED; urgency=medium
 
-  * Suggests: aptitude, apt-zip, imagemagick, lm-sensors, samba,
+  * Suggests: aptitude, apt-zip, imagemagick, lm-sensors, samba, samba
 
  -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 25 Feb 2026 18:28:48 -0300
 

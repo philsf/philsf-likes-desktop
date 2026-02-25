@@ -78,6 +78,7 @@ Suggests:
 	python-nautilus,
 	samba,
         skype | skypeforlinux,
+	smartmontools,
 	sux,
 	synapse,
         teams,
