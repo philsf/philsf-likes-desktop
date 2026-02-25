@@ -1,10 +1,10 @@
-philsf-likes-desktop (0.3.12ubuntu1) UNRELEASED; urgency=medium
+philsf-likes-desktop (0.3.13) noble; urgency=medium
 
   * Recommends: libpam-fscrypt, nautilus-extension-gnome-terminal
   * Suggests: aptitude, apt-zip, imagemagick, lm-sensors, samba, samba
   * Removed: apt-file, colordiff, rename
 
- -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 25 Feb 2026 18:28:48 -0300
+ -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 25 Feb 2026 18:34:11 -0300
 
 philsf-likes-desktop (0.3.12) noble; urgency=medium
 
