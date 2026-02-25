@@ -14,10 +14,8 @@ Package: philsf-likes-desktop
 # Pre-Depends: 
 Depends: ${misc:Depends}
 Recommends:
-	apt-file,
 	byobu,
 	calibre,
-	colordiff,
 	discord,
 	dropbox | nautilus-dropbox | spideroak | wuala,
 	fscrypt | ecryptfs-utils,
@@ -44,7 +42,6 @@ Recommends:
 	nautilus-open-terminal,
 	pipewire-audio-client-libraries,
 	pmount,
-	rename,
 	seahorse-nautilus,
 	rsync,
 	smbclient,
