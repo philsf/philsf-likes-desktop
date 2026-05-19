@@ -1,6 +1,6 @@
 philsf-likes-desktop (0.3.13) noble; urgency=medium
 
-  * Added (Recommends): libpam-fscrypt, nautilus-extension-gnome-terminal
+  * Added (Recommends): libpam-fscrypt, nautilus-extension-gnome-terminal, software-properties-gtk, gnome-browser-connector | chrome-gnome-shell
   * Demoted (Suggests): aptitude, apt-zip, imagemagick, lm-sensors, pmount, samba
   * Removed: apt-file, byobu, colordiff, rename
 
