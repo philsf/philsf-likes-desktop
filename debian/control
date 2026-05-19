@@ -14,7 +14,6 @@ Package: philsf-likes-desktop
 # Pre-Depends: 
 Depends: ${misc:Depends}
 Recommends:
-	byobu,
 	calibre,
 	discord,
 	dropbox | nautilus-dropbox | spideroak | wuala,

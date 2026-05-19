@@ -2,7 +2,7 @@ philsf-likes-desktop (0.3.13) noble; urgency=medium
 
   * Recommends: libpam-fscrypt, nautilus-extension-gnome-terminal
   * Suggests: aptitude, apt-zip, imagemagick, lm-sensors, samba, samba
-  * Removed: apt-file, colordiff, rename
+  * Removed: apt-file, byobu, colordiff, rename
 
  -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 25 Feb 2026 18:34:11 -0300
 
