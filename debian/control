@@ -65,6 +65,7 @@ Suggests:
 	alien,
 	aptitude,
 	imagemagick,
+	ffmpeg,
 	libreoffice,
 	ppa-purge,
 	pmount,
