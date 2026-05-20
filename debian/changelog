@@ -1,3 +1,9 @@
+philsf-likes-desktop (0.3.17) noble; urgency=medium
+
+  * Added (Recommends): hyphen-en-us, hyphen-pt-br
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 20 May 2026 19:03:53 -0300
+
 philsf-likes-desktop (0.3.16) noble; urgency=medium
 
   * Added (Suggests): ffmpeg
