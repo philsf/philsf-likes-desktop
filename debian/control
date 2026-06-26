@@ -17,7 +17,7 @@ Recommends:
  calibre,
  shotwell | digikam,
  dropbox | nautilus-dropbox,
- libgdata22,
+ gnome-online-accounts,
  zoom,
  teams,
  discord,
