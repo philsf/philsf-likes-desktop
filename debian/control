@@ -78,9 +78,7 @@ Suggests:
  pavucontrol,
  ppa-purge,
  pmount,
- btop | htop,
  tlp,
- sqlite3 | sqlite3-doc,
  samba,
  skype | skypeforlinux,
 Description: philsf's perfect Desktop environment
