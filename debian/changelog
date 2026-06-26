@@ -1,6 +1,7 @@
 philsf-likes-desktop (0.4.1) UNRELEASED; urgency=medium
 
   * Added (Recommends): gnome-shell-extension-native-window-placement, ntfs-3g, yt-dlp,
+  * Added (Suggests): pavucontrol
 
  -- Felipe Figueiredo <philsf79@gmail.com>  Thu, 25 Jun 2026 22:05:27 -0300
 

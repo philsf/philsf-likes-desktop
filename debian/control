@@ -75,6 +75,7 @@ Suggests:
  imagemagick,
  ffmpeg,
  libreoffice,
+ pavucontrol,
  ppa-purge,
  pmount,
  btop | htop,
